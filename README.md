@@ -1,2 +1,1 @@
-# for-loop-task
-تكليف حلقة for في البرمجة
+conditions-and-loops-tasks
